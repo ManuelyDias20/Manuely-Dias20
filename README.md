@@ -20,11 +20,7 @@
   <img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelyDias20&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<div style="center"><br>
-  <img alt="avatar" align='right' width="240px" src="/bighead.svg">
-</div>
 </br>
-
   
  ## Tecnologias que estou estudando!
   
